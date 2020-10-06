@@ -10,9 +10,9 @@
 
 
     <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
-   
 
-   
+
+
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/magnific-popup.css">
@@ -24,12 +24,12 @@
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/slicknav.css">
     <link rel="stylesheet" href="css/style.css">
-    
+
 </head>
 
 <body>
 
-<?php include_once 'menu.php'?>
+    <?php include_once 'menu.php'?>
     <!-- header-end -->
 
     <!-- slider_area_start -->
@@ -41,7 +41,7 @@
                         <div class="col-xl-12">
                             <div class="slider_text ">
                                 <h3> <span>Marketplace </span> <br>
-                                     OxigenoVida</h3>
+                                    OxigenoVida</h3>
                                 <p>Unete y trabajemos para salvar muchas vidas <br> Seriedad y compromiso.</p>
                                 <a href="#" class="boxed-btn3">Publica tus Anuncios</a>
                             </div>
@@ -55,7 +55,7 @@
                         <div class="col-xl-12">
                             <div class="slider_text ">
                                 <h3> <span>Marketplace </span> <br>
-                                     OxigenoVida</h3>
+                                    OxigenoVida</h3>
                                 <p>Unete y trabajemos para salvar muchas vidas <br> Seriedad y compromiso.</p>
                                 <a href="#" class="boxed-btn3">Publica tus Anuncios</a>
                             </div>
@@ -69,7 +69,7 @@
                         <div class="col-xl-12">
                             <div class="slider_text ">
                                 <h3> <span>Marketplace </span> <br>
-                                     OxigenoVida</h3>
+                                    OxigenoVida</h3>
                                 <p>Unete y trabajemos para salvar muchas vidas <br> Seriedad y compromiso.</p>
                                 <a href="#" class="boxed-btn3">Publica tus Anuncios</a>
                             </div>
@@ -102,7 +102,7 @@
                         </div>
                         <h3>Emergencia</h3>
                         <p>Informacion de numeros de emergencia
-                        teléfono 113, el WhatsApp 952 842 623.</p>
+                            teléfono 113, el WhatsApp 952 842 623.</p>
                         <a href="#" class="boxed-btn3-white">Aló Minsa</a>
                     </div>
                 </div>
@@ -139,101 +139,25 @@
                     <div class="welcome_docmed_info">
                         <h2>Nota</h2>
                         <h3><br>
-                              Información  </h3>
-                        <p>Sabias que el Peru se requiere de 173 toneladas de oxigeno para cubrir su demanda diaria y que muchas personas mueren al no poder comprar a tiempo los balones con oxigeno. Por ese motivo se creó el proyecto Marketplace Oxigeno es vida para dar a conocer las variedad de proveedores, su ubicacion y los precios que cotizan de tal forma facilitará que las personas puedan buscar el mejor precio y cerca de sus hogares.</p>
-                       
+                            Información </h3>
+                        <p>Sabias que el Peru se requiere de 173 toneladas de oxigeno para cubrir su demanda diaria y
+                            que muchas personas mueren al no poder comprar a tiempo los balones con oxigeno. Por ese
+                            motivo se creó el proyecto Marketplace Oxigeno es vida para dar a conocer las variedad de
+                            proveedores, su ubicacion y los precios que cotizan de tal forma facilitará que las personas
+                            puedan buscar el mejor precio y cerca de sus hogares.</p>
+
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    
-<!-- footer start -->
 
-    <footer class="footer">
-            <div class="footer_top">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-4 col-md-6 col-lg-4">
-                            <div class="footer_widget">
-                                <div class="footer_logo">
-                                    <a href="#">
-                                        <img src="img/logo.png" alt="" width="300px">
-                                    </a>
-                                </div>
-                                <p>
-                                        Apoyamos a crear areas verdes contribuyendo a la mejora del cambio climatico.
-                                </p>
-                                <div class="socail_links">
-                                    <ul>
-                                        <li>
-                                            <a href="#">
-                                                <i class="ti-facebook"></i>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">
-                                                <i class="ti-twitter-alt"></i>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">
-                                                <i class="fa fa-instagram"></i>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-    
-                            </div>
-                        </div>
-                        
-                        <div class="col-xl-2 col-md-6 col-lg-2">
-                            <div class="footer_widget">
-                                <h3 class="footer_title">
-                                        Acceso
-                                </h3>
-                                <ul>
-                                    <li><a href="#">Nosotros</a></li>
-                                    <li><a href="#">Servicios</a></li>
-                                    <li><a href="#">Ofertas</a></li>
-                                    <li><a href="#"> Afiliados</a></li>
-                                    <li><a href="#"> Contactanos</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-md-6 col-lg-3">
-                            <div class="footer_widget">
-                                <h3 class="footer_title">
-                                        Direccion
-                                </h3>
-                                <p>
-                                    La casa de Hovert, OxigenoVida Ubicado en Peru <br>
-                                     <br>
-                                    
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="copy-right_text">
-                <div class="container">
-                    <div class="footer_border"></div>
-                    <div class="row">
-                        <div class="col-xl-12">
-                            <p class="copy_right text-center">
-                                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="#" target="_blank">UCH-EquipoWeb</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </footer>
-<!-- footer end  -->
+    <!-- footer start -->
+    <?php include_once 'footer.php'?>
+
+    <!-- footer end  -->
     <!-- link that opens popup -->
--->
+    -->
     <!-- form itself end-->
     <form id="test-form" class="white-popup-block mfp-hide">
         <div class="popup_box ">
@@ -264,13 +188,13 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
                             </select>
                         </div>
                         <div class="col-xl-6">
-                            <input type="text"  placeholder="Name">
+                            <input type="text" placeholder="Name">
                         </div>
                         <div class="col-xl-6">
-                            <input type="text"  placeholder="Phone no.">
+                            <input type="text" placeholder="Phone no.">
                         </div>
                         <div class="col-xl-12">
-                            <input type="email"  placeholder="Email">
+                            <input type="email" placeholder="Email">
                         </div>
                         <div class="col-xl-12">
                             <button type="submit" class="boxed-btn3">Confirm</button>
@@ -310,22 +234,22 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 
     <script src="js/main.js"></script>
     <script>
-        $('#datepicker').datepicker({
-            iconsLibrary: 'fontawesome',
-            icons: {
-                rightIcon: '<span class="fa fa-caret-down"></span>'
-            }
-        });
-        $('#datepicker2').datepicker({
-            iconsLibrary: 'fontawesome',
-            icons: {
-                rightIcon: '<span class="fa fa-caret-down"></span>'
-            }
+    $('#datepicker').datepicker({
+        iconsLibrary: 'fontawesome',
+        icons: {
+            rightIcon: '<span class="fa fa-caret-down"></span>'
+        }
+    });
+    $('#datepicker2').datepicker({
+        iconsLibrary: 'fontawesome',
+        icons: {
+            rightIcon: '<span class="fa fa-caret-down"></span>'
+        }
 
-        });
+    });
     $(document).ready(function() {
-    $('.js-example-basic-multiple').select2();
-});
+        $('.js-example-basic-multiple').select2();
+    });
     </script>
 </body>
 
