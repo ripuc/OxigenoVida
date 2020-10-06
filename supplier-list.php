@@ -42,8 +42,8 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="bradcam_text">
-                        <h3>blog</h3>
-                        <p><a href="index.html">Home /</a> blog</p>
+                        <h3>AFILIADOS</h3>
+                        <p><a href="index.html">Home /</a> Afiliados</p>
                     </div>
                 </div>
             </div>
@@ -61,15 +61,15 @@
                         <article class="blog_item">
                             <div class="blog_item_img">
                                 <img class="card-img rounded-0" src="img/blog/single_blog_1.png" alt="">
-                                <a href="#" class="blog_item_date">
+                                <!-- <a href="#" class="blog_item_date">
                                     <h3>15</h3>
-                                    <p>Jan</p>
-                                </a>
+                                    <p>ene</p>
+                                </a> -->
                             </div>
 
                             <div class="blog_details">
                                 <a class="d-inline-block" href="single-blog.html">
-                                    <h2>Google inks pact for new 35-storey office</h2>
+                                    <h2>Empresa 1 afgiliada</h2>
                                 </a>
                                 <p>That dominion stars lights dominion divide years for fourth have don't stars is that
                                     he earth it first without heaven in place seed it second morning saying.</p>
